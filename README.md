@@ -4,7 +4,7 @@ I'm software engineer and sysadmin. I work at [MIPT](https://mipt.ru/en/) and [O
 
 Beside, I participate in the development of other system softwares which are usually written on **C**, **Python**, **Bash** and **Go**.
 
-My admin skills are based on **Linux**, **slurm**, **nfs**, **GitLab**, **Jira**, **munnin**, **openVPN**, **ftp**, **proxy**, **iptables**, tools and libraries for development of SoC - **TSMC**, **Synopsys**, **Cadence**, **Ansys**.
+My admin skills are based on **Linux**, **slurm**, **nfs**, **GitLab**, **Jira**, **munin**, **openVPN**, **ftp**, **proxy**, **iptables**, tools and libraries for development of SoC - **TSMC**, **Synopsys**, **Cadence**, **Ansys**.
 
 [![mperov's github stats](https://github-readme-stats.vercel.app/api?username=mperov)](https://github.com/mperov)
 
