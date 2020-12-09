@@ -1,6 +1,6 @@
 ### Hey, my name is Maskim Perov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> !
 
-I'm software engineer and sysadmin. I work at MIPT and Optimizing Technologies. My main line of work is improving of simulators of computer architectures. [QEMU](https://www.qemu.org/) is my favorite project. I added some special computer architectures in it. This works were completed in several commercial projects. All of them are used in companies like internal tools.
+I'm software engineer and sysadmin. I work at [MIPT](https://mipt.ru/en/) and [Optimizing Technologies](http://www.optimitech.com/index.html). My main line of work is improving of simulators of computer architectures. [QEMU](https://www.qemu.org/) is my favorite project. I added some special computer architectures in it. This works were completed in several commercial projects. All of them are used in companies like internal tools.
 
 Beside, I participate in the development of other system softwares which are usually written on **C**, **Python**, **Bash** and **Go**.
 
