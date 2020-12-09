@@ -12,3 +12,4 @@ My admin skills are based on **Linux**, **slurm**, **nfs**, **GitLab**, **Jira**
 
 [📸: Instagram](https://instagram.com/maksim.n.p)  _#makshunting_ :feet: <br>
 [💼: LinkedIn](https://www.linkedin.com/in/mperov) <br>
+[💼: hh.ru](https://hh.ru/resume/fdcb1123ff01b2cb510039ed1f656d626c416c) <br>
