@@ -1,4 +1,4 @@
-### Hey, my name is Maskim Perov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> !
+### Hey, my name is Maks <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> !
 
 I'm software engineer and sysadmin. I work at [MIPT](https://mipt.ru/en/) and [Optimizing Technologies](http://www.optimitech.com/index.html). My main line of work is improving of simulators of computer architectures. [QEMU](https://www.qemu.org/) is my favorite project. I added some special computer architectures in it. These works were completed in several commercial projects and startup [GONT](https://github.com/gontchain/). All of them are used in companies like internal tools.
 
