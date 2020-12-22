@@ -6,7 +6,7 @@ Beside, I participate in the development of other system softwares which are usu
 
 My admin skills are based on **Linux**, **slurm**, **nfs**, **iptables**, **docker**, **RAID**, **GitLab**, **Jira**, **munin**, **openVPN**, **ftp**, **proxy**, tools and libraries for development of SoC - **TSMC**, **Synopsys**, **Cadence**, **Ansys**.
 
-[![mperov's github stats](https://github-readme-stats.vercel.app/api?username=mperov)](https://github.com/mperov)
+[![mperov's github stats](https://github-readme-stats.vercel.app/api?username=mperov&count_private=true)](https://github.com/mperov)
 
 ### Find me elsewhere 🌎
 
