@@ -11,4 +11,5 @@ My admin skills are based on **Linux**, **slurm**, **nfs**, **iptables**, **dock
 ### Find me elsewhere 🌎
 
 [📸: Instagram](https://instagram.com/maksim.n.p)  _#makshunting_ :feet: <br>
+[:gun:: Telegram channel](https://t.me/makshunting) <br>
 [💼: LinkedIn](https://www.linkedin.com/in/mperov) <br>
