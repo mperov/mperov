@@ -4,7 +4,7 @@ I'm software engineer and sysadmin. I work at [MIPT](https://mipt.ru/en/) and [O
 
 Beside, I participate in the development of other system softwares which are usually written on **C**, **C++**, **Python** and **Bash**. E.g., I customized several times gcc-toolchain for some architectures based on **RISC-V**, **MIPS** and I ported gcc-newlib library for processor which is made on **RISC-V**. There are other systems tools which are developed by me, e.g. Linux kernel modules, Embedded software for **Xilinx Zynq**, GUI tools are based on **PyQt**, generators of code and other.  
 
-My admin skills are based on **Linux**, **slurm**, **nfs**, **iptables**, **docker**, **RAID**, **GitLab**, **Jira**, **munin**, **openVPN**, **ftp**, **proxy**, tools and libraries for development of SoC - **TSMC**, **Synopsys**, **Cadence**, **Ansys**, **Xilinx**.
+My admin skills are based on **Linux**, **slurm**, **nfs**, **iptables**, **docker**, **RAID**, **GitLab**, **Jira**, **munin**, **openVPN**, **VNC**, **ThinLinc**, **ftp**, **proxy**, tools and libraries for development of SoC - **TSMC**, **Synopsys**, **Cadence**, **Ansys**, **Xilinx**.
 
 [![mperov's github stats](https://github-readme-stats.vercel.app/api?username=mperov&count_private=true&show_icons=true)](https://github.com/mperov)
 
