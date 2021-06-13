@@ -7,6 +7,8 @@ Beside, I participate in the development of other system softwares which are usu
 My admin skills are based on **Linux**, **slurm**, **nfs**, **iptables**, **docker**, **RAID**, **GitLab**, **Jira**, **munin**, **openVPN**, **VNC**, **ThinLinc**, **ftp**, **proxy**, tools and libraries for development of SoC - **TSMC**, **Synopsys**, **Cadence**, **Ansys**, **Xilinx**.
 And my favorite distributions of operating systems are **Ubuntu**, **CentOS** and **Debian**.
 
+In addition, I'm beginner at **DevOps**. My experience is based on GitLab CI/CD.
+
 [![mperov's github stats](https://github-readme-stats.vercel.app/api?username=mperov&count_private=true&show_icons=true)](https://github.com/mperov)
 
 ### Find me elsewhere 🌎
