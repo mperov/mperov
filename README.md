@@ -16,4 +16,4 @@ In addition, I'm beginner at **DevOps**. My experience is based on GitLab CI/CD,
 
 [📸: Instagram](https://instagram.com/maksim.n.p)  _#makshunting_ :feet: <br>
 [💼: LinkedIn](https://www.linkedin.com/in/mperov) <br>
-[:iphone: : Telegram](https://t.me/maksimnp) <br>
+[:iphone:: Telegram](https://t.me/maksimnp) <br>
