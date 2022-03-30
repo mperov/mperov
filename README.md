@@ -6,7 +6,7 @@ Beside, I participate in the development of other system softwares which are usu
 
 My admin skills are based on **Linux**, **nfs**, **iptables**, **docker**, **RAID**, **GitLab**, **Jira**, **munin**, **openVPN**, **VNC**, **ThinLinc**, **Ansible**, **Environment Modules**, tools and libraries for development of SoC - **TSMC**, **Synopsys**, **Cadence**, **Ansys**, **Xilinx**, **Arteris**.
 And my favorite distributions of operating systems are **Ubuntu**, **CentOS** and **Debian**.  
-Also, I have experience in building of computer clusters which is based on **slurm** and **Grid Engine** (AGE, SGE, UGE). These computer clusters are used for EDA, electronic design automation.
+Also, I have experience in building of computer clusters which is based on **slurm** and **Grid Engine** (AGE, [SGE](https://github.com/daimh/sge), UGE). These computer clusters are used for EDA, electronic design automation.
 
 In addition, I'm interested in **DevOps**-area. I have expertise in GitLab CI/CD, [Ansible](https://github.com/mperov/ansible-mipt), [Docker](https://github.com/mperov/docker-ubuntu16.04_builder_ergochip-toolchain), Jenkins.
 
