@@ -15,8 +15,8 @@ In addition, I'm interested in **DevOps**-area. I have expertise in GitLab CI/CD
 ### Find me elsewhere 🌎
 
 [💼: LinkedIn](https://www.linkedin.com/in/mperov) <br>
-[💼: Developer CV](https://ryazan.hh.ru/resume/fdcb1123ff01b2cb510039ed1f656d626c416c) <br>
-[💼: DevOps CV](https://ryazan.hh.ru/resume/f22c3925ff08e39eb80039ed1f45646a63336f) <br>
+[💼: Developer CV](https://hh.ru/resume/fdcb1123ff01b2cb510039ed1f656d626c416c) <br>
+[💼: DevOps CV](https://hh.ru/resume/f22c3925ff08e39eb80039ed1f45646a63336f) <br>
 [:iphone:: Telegram](https://t.me/maksimnp) <br>
 [:whale:: Docker Hub](https://hub.docker.com/u/mperov) <br>
 [📸: Instagram](https://instagram.com/maksim.n.p)  _#makshunting_ :feet: <br>
