@@ -8,7 +8,7 @@ My admin skills are based on **Linux**, **nfs**, **iptables**, **docker**, **RAI
 And my favorite distributions of operating systems are **Ubuntu**, **CentOS** and **Debian**.  
 Also, I have experience in building of computer clusters which is based on **slurm** and **Grid Engine** (AGE, [SGE](https://github.com/daimh/sge), UGE). These computer clusters are used for EDA, electronic design automation.
 
-In addition, I'm interested in **DevOps**-area. I have expertise in GitLab CI/CD, [Ansible](https://github.com/mperov/ansible-mipt), [Docker](https://github.com/mperov/telegramInformant), [Singularity](https://docs.sylabs.io/guides/3.10/user-guide/quick_start.html) Jenkins.
+In addition, I'm interested in **DevOps**-area. I have expertise in GitLab CI/CD, [Ansible](https://github.com/mperov/ansible-mipt), [Docker](https://github.com/mperov/telegramInformant), [Singularity](https://docs.sylabs.io/guides/3.10/user-guide/quick_start.html), Jenkins.
 
 [![mperov's github stats](https://github-readme-stats.vercel.app/api?username=mperov&count_private=true&show_icons=true)](https://github.com/mperov)
 
